@@ -1,3 +1,4 @@
 #MyApp
 This is my app
-Extra line here
+
+New extra line here - the line above was removed
